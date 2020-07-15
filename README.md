@@ -1,4 +1,4 @@
-# ruinThemAll-GVD-gameJam
+# Ruin them All!
 A game I made in 72 hours for a game jam.
 
 Made in Unity. Assets from https://devassets.com/.
